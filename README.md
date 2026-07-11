@@ -6,7 +6,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📌 Project Overview
-A responsive, multi-page personal portfolio website built from the ground up using strictly HTML and CSS. Developed as part of the [roadmap.sh](https://roadmap.sh/) front-end curriculum, this project serves as a practical demonstration of translating structural design mockups into semantic, responsive web interfaces.
+A responsive, multi-page personal portfolio website built from the ground up using strictly HTML and CSS. Developed as part of the [roadmap.sh](https://roadmap.sh/projects/basic-html-website) front-end curriculum, this project serves as a practical demonstration of translating structural design mockups into semantic, responsive web interfaces.
 
 This repository documents continuous learning and the application of front-end fundamentals by a Data Science student transitioning into full-stack software development.
 
